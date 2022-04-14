@@ -1,6 +1,6 @@
 ## Olá!, eu sou o Alex Nascimento.
-### Sou um jovem sonhador que deseja adquirir conhecimento para poder fazer desse mundo um lugar melhor, nem que seja apenas um pouco.
-#### Busco compartilhar e ganhar conhecimento para me tornar um profissional melhor :)
+### Sou um jovem sonhador que deseja adquirir conhecimento para poder fazer desse mundo um lugar melhor, nem que seja apenas um pouco... sou determidado e autodidata, sou um resolvedor de problemas, caso não consiga resolver seu problema na hora, irei atraz do impossivel pra encontrar uma solução e entregar o mais rápido possivel.
+#### Busco compartilhar e ganhar conhecimento para me tornar um profissional melhor, procuro vagas para poder me desenvolver ainda mais dentro de uma empresa, se eu atender seus requisitos acredito que não irá se arrepender em fazer parceria comigo :)
 estou em constante aprendizado e... atualmente estou estudando:
 * HTML5
 * CSS3
