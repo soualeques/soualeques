@@ -1,5 +1,5 @@
 # Hi, I'm Alex Nascimento.
-## I'm a young dreamer who wants to acquire knowledge to be able to make this world a better place, even if it's just a little... I'm determined and self-taught, I'm a problem solver, if I can't solve your problem on time, I'll go after the impossible to find a solution and deliver as soon as possible.
+## I'm a young dreamer passionate about technology, who wants to acquire knowledge to be able to make this world a better place, even if it's just a little... I'm determined and self-taught, I'm a problem solver, if I can't solve your problem on time, I'll go after the impossible to find a solution and deliver as soon as possible.
 ### I'm looking to share and gain knowledge to become a better professional, I'm looking for vacancies to be able to develop myself even more within a company, if I meet your requirements I believe you won't regret partnering with me :)
 #### I'm constantly learning and... I'm currently studying:
 * HTML5
