@@ -1,6 +1,6 @@
 # Hi, I'm Alex Nascimento.
 * :man_student: student of systems analysis and development at unopar;
-* :man_office_worker: I'm 21 years old;
+* :man_office_worker: I'm 22 years old;
 * :mechanical_arm: I'm interested in the fullstack area;
 * :world_map: brazillian;
 * :martial_arts_uniform: blue belt in taekwondo;
